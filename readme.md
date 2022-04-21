@@ -3,7 +3,6 @@
 ## 基官方固件版本3.206安装SSRP插件
 
 - 空间不够可参考openwrt扩容overlay[将 Overlay 空间指向外置存储](https://blog.digicat-studio.com/Technology/openwrt_overlay.html)
-- opkg update && opkg install block-mount luci ttyd luci-app-ttyd luci-compat luci-lib-ipkg wget htop
 
 ## 使用
 　　1.使用winscp工具上传插件到路由器的/tmp/tmp/目录下；

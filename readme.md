@@ -16,7 +16,7 @@
 
   5.在luci管理界面——软件包——过滤器——输入“libustream”——installed——删除“libustream-openssl20150806”；
 
-  6.再继续使用命令“opkg install luci-compat”安装luci-compat插件否则会打开luci中的插件会报错；
+  6.如果打开luci中的插件报错，再继续使用命令“opkg install luci-compat”安装luci-compat插件；
 
   7.重新登录luci会看到“服务”菜单中有你刚刚安装的插件。
 

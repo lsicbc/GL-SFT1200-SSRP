@@ -12,12 +12,8 @@
 
 3.使用“opkg update && opkg install *”命令进行安装后等待安装结束即可；
 
-4.遇到报错：openssl20150806已经安装，按照第5步卸载openssl20150806；
+4.如果打开luci中的插件报错，再继续使用命令“opkg install luci-compat”安装luci-compat插件；
 
-5.在luci管理界面——软件包——过滤器——输入“libustream”——installed——删除“libustream-openssl20150806”；
+5.重新登录luci会看到“服务”菜单中有你刚刚安装的插件；
 
-6.如果打开luci中的插件报错，再继续使用命令“opkg install luci-compat”安装luci-compat插件；
-
-7.重新登录luci会看到“服务”菜单中有你刚刚安装的插件。
-
-8.如果SSRP无法启动，修改/etc/init.d/shadowsocksr中的START=99
+6.如果SSRP无法启动，修改/etc/init.d/shadowsocksr中的START=99。

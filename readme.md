@@ -1,4 +1,4 @@
-# GL-iNet GL-SFT1200 路由器 安装 ShadowSocksR Plus 插件
+# GL-iNet GL-SFT1200 路由器安装 ShadowSocksR Plus 插件
 
 ## 基于官方固件版本3.206安装SSRP插件
 

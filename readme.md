@@ -1,7 +1,8 @@
 # GL-iNet GL-SFT1200 路由器 OpenWrt 插件
 
-## 基官方固件版本3.206安装SSRP插件
+## 基于官方固件版本3.206安装SSRP插件
 
+- 官方固件下载地址：https://dl.gl-inet.cn/?model=sft1200
 - 空间不够可参考openwrt扩容overlay[将 Overlay 空间指向外置存储](https://blog.digicat-studio.com/Technology/openwrt_overlay.html)
 
 ## 使用

@@ -20,4 +20,4 @@
 
     7.重新登录luci会看到“服务”菜单中有你刚刚安装的插件。
 
-    ##8.如果SSRP无法启动，修改/etc/init.d/shadowsocksr中的START=99
+    8.如果SSRP无法启动，修改/etc/init.d/shadowsocksr中的START=99

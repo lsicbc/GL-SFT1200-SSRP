@@ -7,6 +7,7 @@
 
 ## 安装方法
   1.使用winscp工具上传插件到路由器的/tmp/tmp/目录下；
+  
   2.使用“cd /tmp/tmp/”进入插件上传目录；
 
   3.使用“opkg update && opkg install *”命令进行安装后等待安装结束即可；

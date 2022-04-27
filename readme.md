@@ -20,7 +20,7 @@
 
 7.如果刷淘宝反应缓慢，执行以下命令关闭硬件加速：
 
-    uci set firewall.@defaults[0].flow_offloading='0'
+    uci set firewall.@defaults[0].flow_offloading='1'
     uci set firewall.@defaults[0].flow_offloading_hw='0'
     uci commit firewall
     /etc/init.d/firewall restart

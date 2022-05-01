@@ -31,5 +31,6 @@
     service firewall restart
 
 3.执行一下命令，实时速度流量统计程序（管理网页上的关闭按钮，实际没有关闭统计程序），以改善负载；
+
     /etc/init.d/gl_tertf stop
     /etc/init.d/gl_tertf disable

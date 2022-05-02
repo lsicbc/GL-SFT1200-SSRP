@@ -34,3 +34,7 @@
 
     /etc/init.d/gl_tertf stop
     /etc/init.d/gl_tertf disable
+    
+    如需恢复，执行以下命令：
+    /etc/init.d/gl_tertf enable
+    /etc/init.d/gl_tertf start

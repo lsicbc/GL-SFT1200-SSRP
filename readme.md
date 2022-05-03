@@ -24,6 +24,8 @@
     wget -qO- https://cdn.jsdelivr.net/gh/ericwang2006/sft1200_buddha/install.sh | sh -s ssr-plus
 
 ## 三、优化
+### SFT1200搭载国产双核处理器，RAM128m，经过优化后，目前内存占用在70%上下，平均负载1.1～1.3，很稳定；
+
 1.如果SSRP无法启动，请先reboot，如还不行，尝试修改/etc/init.d/shadowsocksr中的START=99后再reboot。
 
 2.如果刷淘宝反应缓慢，先查看防火墙流量分载情况，并执行以下命令关闭硬件转发加速：

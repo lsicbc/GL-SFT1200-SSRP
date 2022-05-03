@@ -24,7 +24,7 @@
     wget -qO- https://cdn.jsdelivr.net/gh/ericwang2006/sft1200_buddha/install.sh | sh -s ssr-plus
 
 ## 优化
-1.如果SSRP无法启动，修改/etc/init.d/shadowsocksr中的START=99。
+1.如果SSRP无法启动，请先reboot，如还不行，尝试修改/etc/init.d/shadowsocksr中的START=99。
 
 2.如果刷淘宝反应缓慢，先查看防火墙流量分载情况，并执行以下命令关闭硬件转发加速：
 

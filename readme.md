@@ -8,7 +8,7 @@
 - [GL-SFT1200官方固件一键安装魔法上网](https://www.126126.xyz/post/031/#%E5%8E%9F%E5%8E%82%E7%B3%BB%E7%BB%9F%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91)（实测PassWall不太好用）
 
 ## 一、手动安装方法
-1.下载压缩包，解压密码：ssrp；
+1.下载Release压缩包，解压密码：ssrp；
 
 2.使用winscp工具上传插件到路由器的/tmp/tmp/目录下；
 

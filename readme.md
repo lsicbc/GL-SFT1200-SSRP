@@ -4,7 +4,7 @@
 
 - 官方固件下载地址：https://dl.gl-inet.cn/?model=sft1200
 - 空间不够可参考openwrt扩容overlay[将 Overlay 空间指向外置存储](https://blog.digicat-studio.com/Technology/openwrt_overlay.html)
-- [GL-SFT1200原厂固件一键安装魔法上网](https://www.126126.xyz/post/031/#%E5%8E%9F%E5%8E%82%E7%B3%BB%E7%BB%9F%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91)（实测PassWall不太好用）
+- [GL-SFT1200官方固件一键安装魔法上网](https://www.126126.xyz/post/031/#%E5%8E%9F%E5%8E%82%E7%B3%BB%E7%BB%9F%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91)（实测PassWall不太好用）
 
 ## 安装方法
 1.下载压缩包，解压密码：ssrp；

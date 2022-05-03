@@ -19,6 +19,9 @@
 
 6.重新登录luci会看到“服务”菜单中有你刚刚安装的插件；
 
+## 一键安装ssr-plus
+    wget -qO- https://cdn.jsdelivr.net/gh/ericwang2006/sft1200_buddha/install.sh | sh -s ssr-plus
+
 ## 优化
 1.如果SSRP无法启动，修改/etc/init.d/shadowsocksr中的START=99。
 

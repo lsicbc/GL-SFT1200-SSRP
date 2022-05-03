@@ -14,7 +14,7 @@
 
 3.使用“cd /tmp/tmp/”进入插件上传目录；
 
-4.使用“opkg update && opkg install *”命令进行安装后等待安装结束即可；
+4.使用“opkg update && opkg install *.ipk”命令进行安装后等待安装结束即可；
 
 5.如果打开luci中的插件报错，再继续使用命令“opkg install luci-compat”安装luci-compat插件；
 
